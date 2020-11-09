@@ -22,7 +22,7 @@
 ## Usefull guides and tutorials
 
 - [Is there a way to auto turn-on Linux machine](https://unix.stackexchange.com/questions/185475/is-there-a-way-to-auto-turn-on-linux-machine)
-- []()
+- [](https://www.lotar.altervista.org/wiki/how-to/sendmail-and-gmail-relay)
 - []()
 - []()
 - []()
