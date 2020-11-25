@@ -63,3 +63,9 @@
 - []()
 - []()
 - []()
+
+
+# Other intresting linux distribution
+
+- https://manjaro.org/
+- parrot
